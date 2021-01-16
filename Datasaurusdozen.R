@@ -67,7 +67,7 @@ ui <- fluidPage(
                       target="_blank", "Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing"), 
                br(),
                br(),
-               tags$a(href="https://github.com/Atyepa/ACSF-Australia-ShinyApp/blob/d19521291c7442584deb0e54c29644dd91547d0e/ACSF2019-20.R",
+               tags$a(href="https://github.com/Atyepa/Dinosaurus-dozen/blob/main/Datasaurusdozen.R",
                       target="_blank", "See the ShinyApp code at GitHub"))
       
       
