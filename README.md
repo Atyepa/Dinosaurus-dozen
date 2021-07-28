@@ -1,5 +1,5 @@
-Dinosaurus-dozen app reproduces the visualisations and summary statistics for 13 datasets which each conform to same summary statistics (mean, SD, correl) but still have very different distributions. 
-This provides a nice example which may be helpful in educating data analysts to look beyond summary the stats and see the data's underlying distribution. 
+Datasaurus-dozen app reproduces the visualisations and summary statistics for 13 datasets which each conform to same summary statistics (mean, SD, correl) but still have very different distributions. 
+This provides a fun example to help make the point about that seeing distributions is just as important as the summary stats. 
 
 The ShinyApp can be operated from here: https://atyepa.shinyapps.io/Datasaurus/
 
